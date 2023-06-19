@@ -1,0 +1,15 @@
+C:\Users\Beli\source\repos\02.Bee\02.Bee\bin\Debug\net6.0\02.Bee.exe
+C:\Users\Beli\source\repos\02.Bee\02.Bee\bin\Debug\net6.0\02.Bee.deps.json
+C:\Users\Beli\source\repos\02.Bee\02.Bee\bin\Debug\net6.0\02.Bee.runtimeconfig.json
+C:\Users\Beli\source\repos\02.Bee\02.Bee\bin\Debug\net6.0\02.Bee.dll
+C:\Users\Beli\source\repos\02.Bee\02.Bee\bin\Debug\net6.0\02.Bee.pdb
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.csproj.AssemblyReference.cache
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.AssemblyInfoInputs.cache
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.AssemblyInfo.cs
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.csproj.CoreCompileInputs.cache
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.dll
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\refint\02.Bee.dll
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.pdb
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\02.Bee.genruntimeconfig.cache
+C:\Users\Beli\source\repos\02.Bee\02.Bee\obj\Debug\net6.0\ref\02.Bee.dll
